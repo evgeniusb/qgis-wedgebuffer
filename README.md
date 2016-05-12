@@ -1,4 +1,5 @@
 # qgis-wedgebuffer
+See please commit comments.
 Makes wedge shaped buffers on points in QGIS. Installs itself as a "Processing" algorithm.
 
 After installing the plugin, you have to activate its Processing provider under Processing -> Options -> Providers -> Wedge Buffer
